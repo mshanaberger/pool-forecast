@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28536054/README.md)
 # Pool Forecast by ZIP Code
 
 A simple, single-file weather web app that creates a pool usability forecast from public National Weather Service data.
